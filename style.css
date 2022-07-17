@@ -1,3 +1,52 @@
-body {
-  background: rgb(255, 227, 176);
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 5vh;
+  margin-left: 5vh;
+  margin-bottom: 5vh;
+}
+
+.column {
+  background-color: rgb(230, 85, 36);
+  width: 6rem;
+  height: 90rem;
+}
+
+.info h1 {
+  font-size: 10rem;
+  margin-top: 10rem;
+}
+
+.words {
+  writing-mode:vertical-lr;
+  margin-left: 27rem;
+  font-weight: bold;
+}
+
+.quote {
+  font-size: 1.5rem;
+  padding-left: 20px;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 5rem;
+  margin-top: 43.4rem;
+}
+
+.line {
+  background-color: rgb(230, 85, 36);
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 2rem;
+}
+
+.footer {
+  margin-left: 0.8rem;
+  font-weight: bold;
 }
