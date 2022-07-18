@@ -48,7 +48,7 @@
 .date {
   font-weight: bold;
   font-size: 5rem;
-  margin-top: 47.6rem;
+  margin-top: 47.5rem;
 }
 
 .vertical-line {
@@ -64,15 +64,4 @@
 .footer {
   margin-left: 0.5rem;
   font-weight: bold;
-}
-
-.comparison {
-  border: 5px solid;
-  padding-top: 10rem;
-}
-
-.comparison h2 {
-  font-size: 50px;
-  text-align: center;
-  text-decoration: underline;
 }
