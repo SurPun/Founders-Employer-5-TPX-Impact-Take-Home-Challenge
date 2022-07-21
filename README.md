@@ -9,4 +9,4 @@ Founders-Employer-5-TPX-Impact-Take-Home-Challenge
 
 Original                                  |  Replica
 :----------------------------------------:|:----------------------------------------:
-<img src="Comparison.jpg" width="200" />  | <img src="https://user-images.githubusercontent.com/99582373/179634889-2fbc39e9-9a57-43c2-9f4e-5cfc9d153581.png" width="200" />
+<img src="Comparison.jpg" width="200" />  | <img src="https://user-images.githubusercontent.com/99582373/180327861-15f32b9b-bda2-4dba-98ab-db6c97c44328.png" width="200" />
