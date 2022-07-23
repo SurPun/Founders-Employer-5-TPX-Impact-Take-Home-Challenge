@@ -1,9 +1,9 @@
 # Founders-Employer-5-TPX-Impact-Take-Home-Challenge
 Founders-Employer-5-TPX-Impact-Take-Home-Challenge
 
-[Please Find Poster Page Here](https://surpun.github.io/Founders-Employer-5-TPX-Impact-Take-Home-Challenge/)
+[Please Find Poster Live Page Here](https://surpun.github.io/Founders-Employer-5-TPX-Impact-Take-Home-Challenge/)
 
-[Please Find Challenge 2 (StopWatch) Here](https://surpun.github.io/Founders-Employer-5-TPX-Impact-Take-Home-Challenge/Challenge-2-StopWatch/)
+[Please Find Challenge 2 (StopWatch) Live Page Here](https://surpun.github.io/Founders-Employer-5-TPX-Impact-Take-Home-Challenge/Challenge-2-StopWatch/)
 
 # Poster
 
