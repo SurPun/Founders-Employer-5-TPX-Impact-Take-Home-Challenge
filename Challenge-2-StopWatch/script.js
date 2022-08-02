@@ -63,7 +63,7 @@ const play = () => {
                 minute.innerHTML = `&nbsp;${timer(0)} :`;
                 minCounter = 0;
             }
-            }, 60*1000);
+            }, 1000*60);
 
         sec = setInterval(() => {
             // if (secCounter === 60) {
@@ -90,7 +90,9 @@ const play = () => {
         playButton.innerHTML = 'Play'
         clearInterval(sec);
         clearInterval(centiSec);
-        isPlay = false;7
+        clearInterval(min);
+        clearInterval(hr);
+        isPlay = false;
         isReset = false;
 
         bg.classList.remove('animation-bg');
