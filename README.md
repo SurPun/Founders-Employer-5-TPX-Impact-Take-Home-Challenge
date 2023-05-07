@@ -1,5 +1,4 @@
-# Founders-Employer-5-TPX-Impact-Take-Home-Challenge
-Founders-Employer-5-TPX-Impact-Take-Home-Challenge
+# Founders & Coders Employer 5 - TPX Impact Take-Home Challenge
 
 [Please Find Poster Live Page Here](https://surpun.github.io/Founders-Employer-5-TPX-Impact-Take-Home-Challenge/)
 
